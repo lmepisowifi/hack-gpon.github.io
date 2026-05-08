@@ -1,0 +1,31 @@
+---
+title: FiberHome HG6245D
+has_children: false
+layout: default
+parent: FiberHome
+---
+
+# Hardware Specifications
+
+|                 |                                                                        |
+| --------------- | ---------------------------------------------------------------------- |
+| Vendor/Brand    | FiberHome                                                              |
+| Model           | HG6245D                                                                |
+| Chipset         | Broadcom BCM96846.                                                     |
+| Flash           | SPI NAND 128MB                                                         |
+| RAM             | 256MB                                                                  |
+| CPU             | ARMv7                                                                  |
+| CPU Clock       | ?.                                                                     |
+| BogoMIPS        | 100MHz                                                                 |
+| System          | ?.                                                                     |
+| Ethernet ports  | 4x1G                                                                   |
+| Optics          | SC/APC & SC/UPC                                                        |
+| IP address      | 192.168.1.1                                                            |
+| Web Gui         | ?.                                                                     |
+| Telnet          | ✅ user `root`, password `GEPON`                                 |
+| SSH             | NO                                                                     |
+| Serial baud     | 115200                                                                 |
+| Serial encoding | 8-N-1                                                                  |
+| Form Factor     | ONT                                                                    |
+
+# WIP (Work In progress).
